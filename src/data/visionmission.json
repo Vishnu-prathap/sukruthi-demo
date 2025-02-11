@@ -1,0 +1,12 @@
+{
+  "vision": {
+    "icon": "/assets/about-us/vision.webp",
+    "title": "Our Vision - What we wish to achieve",
+    "description": "Build a better world - one that's safer, healthier, and happier for our future generations"
+  },
+  "mission": {
+    "icon": "/assets/about-us/mission.webp",
+    "title": "Our Mission - Why do we exist",
+    "description": "To use wealth to bring about lasting changes in the lives of the under-privileged, create an environment where every person has an equal opportunity to live a better life irrespective of their financial conditions. Nobody should suffer or be denied healthcare due to lack of money."
+  }
+}

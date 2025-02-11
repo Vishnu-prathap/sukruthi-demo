@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/assets/home/icon/transparency.png",
+    "title": "Transparency",
+    "description": "We are committed to act transparently in accordance with laws & regulations, provide accurate public disclosure of our finances and assure vou that vour capital is being used responsibly."
+  },
+  {
+    "icon": "/assets/home/icon/humility.png",
+    "title": "Humility",
+    "description": "This is our source of strength. We do not seek credit or publicize our work unless it is necessary to fulfill our mission."
+  },
+  {
+    "icon": "/assets/home/icon/integrity.png",
+    "title": "Integrity",
+    "description": "We aspire to live to the highest levels of professional and ethical standards and not compromise on our reputation. We will act in the best interest of our beneficiaries and donors."
+  },
+  {
+    "icon": "/assets/home/icon/respect.png",
+    "title": "Respect",
+    "description": "We are committed to treating the people and organizations with whom we work with fairness, dignity and respect."
+  },
+  {
+    "icon": "/assets/home/icon/urgency.png",
+    "title": "Urgency",
+    "description": "People are dying unnecessarily due to a variety of health reasons that are preventable. We recognize that every day we delay, we lose more people. The faster we act, the more lives we can save."
+  },
+  {
+    "icon": "/assets/home/icon/passion.png",
+    "title": "Passion",
+    "description": "We are passionate & enthusiastic about making a significant positive change by inspiring people to give to create a better world."
+  }
+]

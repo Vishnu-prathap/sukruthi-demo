@@ -1,0 +1,393 @@
+.App {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  -ms-overflow-style: none !important;
+  /* IE and Edge */
+  scrollbar-width: none !important;
+  /* Firefox */
+
+
+
+}
+
+.App::-webkit-scrollbar {
+  display: none !important;
+}
+
+
+.ofxh {
+  overflow-x: hidden !important;
+}
+
+.footer-icon a {
+  font-size: 24px !important;
+}
+
+.home-1 {
+  background-color: #f4f3ef;
+}
+
+.donate {
+
+  margin-top: 30px;
+  background-image: url("/assets/home/donate-home.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: rgba(96, 96, 96, 0.8);
+  background-blend-mode: multiply;
+}
+
+.donate-container {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.impact-container {
+  margin-top: 20px;
+}
+
+.impact-card {
+
+  border: solid !important;
+  border-radius: 10px !important;
+  border-color: red !important;
+}
+
+.slider-img {}
+
+.initiative-card {
+  border-radius: 0px !important;
+  border: none !important;
+}
+
+.initiatives-title {
+  font-weight: 600;
+}
+
+.initiatives-description {
+  font-weight: 400;
+}
+
+.value-card {
+  border: none !important;
+  border-radius: 0px !important;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.value-icon-wrapper {}
+
+.values-icon {
+  margin-bottom: 25px;
+  max-width: 120px;
+  background-color: #BD0914;
+  border-radius: 100%;
+}
+
+
+.aboutus-title-h2 {
+  padding-top: 12vh;
+  color: #ffffff;
+  font-size: 48px !important;
+  font-weight: 700;
+}
+
+.aboutus-title-h4 {
+  padding-bottom: 12vh;
+  color: #ffffff;
+  font-size: 22px !important;
+  font-weight: 300 !important;
+}
+
+.vision-mission {
+  background-color: #f4f3ef;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
+}
+
+.vision-icon {
+
+  max-width: 180px;
+
+  border-radius: 100%;
+}
+
+.mission-icon {
+
+  max-width: 180px;
+
+  border-radius: 100%;
+}
+
+.story-text {
+  text-align: left;
+}
+
+.our-story-title {
+  padding-top: 10vh;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.our-story-photo {
+  border-radius: 50%;
+  max-width: 30vw;
+}
+
+.testinomials-body {
+  text-align: left;
+  padding: 15px;
+
+}
+
+.testinominals-card {
+  border-radius: 0px;
+  border-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.card-author {
+  font-size: 20px;
+  font-weight: 800;
+  color: #BD0914;
+}
+
+.card-designation {
+  font-weight: 700;
+}
+
+.our-bg-photo {
+  border-radius: 50%;
+  max-width: 30vw;
+}
+
+.founders-card {
+
+  border-radius: 0px;
+  border-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.founder-image {
+  aspect-ratio: 1/1;
+  max-width: 200px;
+  border-radius: 50%;
+  margin-bottom: 25px;
+}
+
+.supporter-image {
+  aspect-ratio: 1/1;
+  max-width: 170px;
+  border-radius: 50%;
+  margin-bottom: 25px;
+}
+
+.contact-card {
+  border-radius: 0px;
+  border-color: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 6px 20px 0 rgba(0, 0, 0, 0.1);
+
+}
+
+.idea-title {
+  background-image: url("/assets/make-an-impact/idea-bg.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  background-color: rgba(96, 96, 96, 0.8);
+  background-blend-mode: multiply;
+
+  text-align: start;
+  padding-left: 10vw;
+}
+
+.idea-title-h2 {
+  padding-top: 12vh;
+  color: #ffffff;
+  font-size: 48px !important;
+  font-weight: 700;
+}
+
+.idea-title-h4 {
+  padding-bottom: 12vh;
+  color: #ffffff;
+  font-size: 22px !important;
+  font-weight: 300 !important;
+}
+
+.idea-content-title-h2 {
+  padding-top: 12vh;
+  text-align: start;
+  font-size: 48px !important;
+  font-weight: 700;
+
+}
+
+.idea-content-p {
+  text-align: start;
+}
+
+.idea-content-h3 {
+  text-align: start;
+}
+
+.text-start {
+  text-align: start !important;
+}
+
+.text-justify {
+  text-align: justify !important;
+}
+
+.partner-about {
+  text-align: justify;
+}
+
+.container {
+  padding-left: 5vw;
+  padding-right: 5vw;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.h3 {
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.span {
+  font-size: 14px;
+  font-weight: 400;
+  color: grey;
+}
+
+.story-image {
+  max-width: 90vw;
+  max-height: 40vh;
+}
+
+.testinomials-img {
+  aspect-ratio: 1/1;
+  max-width: 120px;
+  max-height: 120px;
+  border-radius: 50%;
+}
+
+.story-card-img {}
+
+.search-bar {
+  border-radius: 0px;
+}
+
+.search-btn {
+  border-radius: 0px;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+.footer {
+  background-color: #D3D3D3 !important;
+}
+
+.footer-logo {
+  max-width: 250px;
+}
+
+.quick-links {
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.quick-links h4 {
+  font-size: 24px;
+  color: black;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.quick-links div div span {
+
+  color: black;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.quick-links div div span:hover {
+  color: maroon;
+  font-weight: 700;
+  font-size: 18px;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.footer-text {
+  font-size: 12px;
+}
+
+.ttc-link {
+  font-weight: 700;
+  color: #BD0914;
+}
+
+@media screen and (max-width: 480px) {
+  .qoute {
+    padding-top: 0px !important;
+
+
+    padding-right: 10px;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #ffffff;
+  }
+
+  .qoute-author {
+    padding-bottom: 5vh !important;
+
+    font-size: 26px;
+    font-weight: 500;
+    color: #ffffff;
+  }
+}
+
+.qoute {
+  padding-top: 10vh;
+
+  padding-right: 10px;
+  font-size: 2.1rem;
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.qoute-author {
+  padding-bottom: 15vh;
+
+  font-size: 26px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.quick-link-item {
+  cursor: pointer;
+}
+
+.upi-qr {
+  max-width: 300px;
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Cancer Care",
+    "imageUrl": "/assets/cancer-care.png",
+
+    "description": "Supporting underprivileged cancer patients with complete medical and surgical care."
+  },
+  {
+    "title": "Kidney Dialysis",
+    "imageUrl": "/assets/kidney-dialysis.jpeg",
+    "description": "Providing financial help and dialysis equipment to patients with kidney failure."
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "name": "About Us",
+    "link": "/who-we-are/about-us"
+  },
+  {
+    "name": "Our Management",
+    "link": "/who-we-are/our-management"
+  },
+  {
+    "name": "Our Partners",
+    "link": "/what-we-do/our-partners"
+  },
+  {
+    "name": "Ideas for Giving",
+    "link": "/make-an-impact/ideas-for-giving"
+  },
+  {
+    "name": "FAQs",
+    "link": "/make-an-impact/ideas-for-giving#faq"
+  },
+  {
+    "name": "Donation",
+    "link": "/make-an-impact/donation"
+  },
+  {
+    "name": "Refer a Donor",
+    "link": "/make-an-impact/refer-a-donor"
+  },
+  {
+    "link": "/achievements/transparency",
+    "name": "Transparency"
+  },
+  {
+    "link": "/achievements/testimonials",
+    "name": "Testimonials"
+  },
+
+  {
+    "link": "/achievements/stories-of-good",
+    "name": "Stories of Good"
+  },
+  {
+    "link": "/achievements/our-supporters",
+    "name": "Our Supporters"
+  },
+  {
+    "link": "/contact-us",
+    "name": "Contact Us"
+  }
+]

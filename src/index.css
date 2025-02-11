@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth !important;
+
+}
+
+
+body {
+  -ms-overflow-style: none !important;
+  /* IE and Edge */
+  scrollbar-width: none !important;
+  /* Firefox */
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  backdrop-filter: blur(70px);
+  -webkit-backdrop-filter: blur(70px);
+
+}
+
+body::-webkit-scrollbar {
+  display: none !important;
+}
+
+#root {
+  overflow-x: hidden;
+}

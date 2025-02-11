@@ -1,0 +1,82 @@
+[
+  {
+    "href": "/",
+    "name": "Home"
+  },
+  {
+    "href": "/who-we-are",
+    "name": "Who We Are",
+    "subLinks": [
+      {
+        "href": "/who-we-are/about-us",
+        "name": "About Us"
+      },
+      {
+        "href": "/who-we-are/our-management",
+        "name": "Our Management"
+      }
+    ]
+  },
+  {
+    "href": "/what-we-do",
+    "name": "What We Do",
+    "subLinks": [
+      {
+        "href": "/what-we-do/our-partners",
+        "name": "Our Partners"
+      }
+    ]
+  },
+  {
+    "href": "/make-an-impact",
+    "name": "Make an Impact",
+    "subLinks": [
+      {
+        "href": "/make-an-impact/ideas-for-giving",
+        "name": "Ideas for Giving"
+      },
+      {
+        "href": "/make-an-impact/systematic-donation-plan",
+        "name": "Systematic Donation Plan"
+      },
+      {
+        "href": "/make-an-impact/donation",
+        "name": "Donation"
+      },
+      {
+        "href": "/make-an-impact/refer-a-donor",
+        "name": "Refer a Donor"
+      }
+    ]
+  },
+  {
+    "href": "/achievements/transparency",
+    "name": "Achievements",
+    "subLinks": [
+      {
+        "href": "/achievements/transparency",
+        "name": "Transparency"
+      },
+      {
+        "href": "/achievements/testimonials",
+        "name": "Testimonials"
+      },
+      {
+        "href": "/achievements/stories-of-good",
+        "name": "Stories of Good"
+      },
+      {
+        "href": "/achievements/our-supporters",
+        "name": "Our Supporters"
+      }
+    ]
+  },
+  {
+    "href": "/contact-us",
+    "name": "Contact Us"
+  },
+  {
+    "href": "/make-an-impact/donation",
+    "name": "Donate Now"
+  }
+]
